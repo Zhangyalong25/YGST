@@ -1,0 +1,21 @@
+platform:ios, '8.0'
+target "YGST" do
+pod 'AFNetworking', '~> 3.1.0'
+pod 'SDWebImage', '~> 3.8.2'
+pod 'Masonry', '~> 1.0.2'
+pod 'RHSocketKit', '~> 2.2.0'
+pod "MJExtension"
+pod 'FMDB', '~> 2.6.2'
+pod 'MJRefresh', '~> 3.1.12'
+pod 'BaiduMapKit'
+pod 'AMapSearch-NO-IDFA', '~> 4.5.0'
+pod 'AMap2DMap-NO-IDFA', '~> 4.6.0'
+pod 'UITableView+FDTemplateLayoutCell'
+pod 'MBProgressHUD', '~> 1.0.0'
+pod 'TZImagePickerController'
+pod 'IQKeyboardManager', '~> 5.0.6'
+pod 'UMengAnalytics-NO-IDFA'
+pod 'UMengUShare/Social/Sina'
+pod 'UMengUShare/Social/WeChat'
+pod 'UMengUShare/Social/QQ'
+end

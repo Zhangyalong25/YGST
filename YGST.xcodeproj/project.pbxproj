@@ -7,14 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		287347DA2019B4AC0015E612 /* YGAFNetWorkingModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 287347D92019B4AC0015E612 /* YGAFNetWorkingModel.m */; };
+		287347DD2019B6410015E612 /* YGAFNetWorkManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 287347DC2019B6410015E612 /* YGAFNetWorkManager.m */; };
+		287347E62019CAF40015E612 /* demo_unicode.html in Resources */ = {isa = PBXBuildFile; fileRef = 287347E22019CAEF0015E612 /* demo_unicode.html */; };
+		287347E72019CAF40015E612 /* demo_symbol.html in Resources */ = {isa = PBXBuildFile; fileRef = 287347E32019CAF00015E612 /* demo_symbol.html */; };
+		287347E82019CAF40015E612 /* demo.css in Resources */ = {isa = PBXBuildFile; fileRef = 287347E42019CAF20015E612 /* demo.css */; };
+		287347E92019CAF40015E612 /* demo_fontclass.html in Resources */ = {isa = PBXBuildFile; fileRef = 287347E52019CAF30015E612 /* demo_fontclass.html */; };
+		287347F02019CB1A0015E612 /* iconfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = 287347EA2019CB130015E612 /* iconfont.svg */; };
+		287347F12019CB1A0015E612 /* iconfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = 287347EB2019CB140015E612 /* iconfont.woff */; };
+		287347F22019CB1A0015E612 /* iconfont.css in Resources */ = {isa = PBXBuildFile; fileRef = 287347EC2019CB150015E612 /* iconfont.css */; };
+		287347F32019CB1A0015E612 /* iconfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = 287347ED2019CB170015E612 /* iconfont.eot */; };
+		287347F42019CB1A0015E612 /* iconfont.js in Resources */ = {isa = PBXBuildFile; fileRef = 287347EE2019CB180015E612 /* iconfont.js */; };
+		287347F52019CB1A0015E612 /* iconfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 287347EF2019CB190015E612 /* iconfont.ttf */; };
+		287347FB2019D39F0015E612 /* YGSTTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 287347FA2019D39F0015E612 /* YGSTTool.m */; };
+		2888BD2B20298C3E009E8C67 /* YGShopCarVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 2888BD2A20298C3E009E8C67 /* YGShopCarVC.m */; };
+		2888BD2E20298C86009E8C67 /* YGSocialCircleVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 2888BD2C20298C86009E8C67 /* YGSocialCircleVC.m */; };
+		2888BD3520299784009E8C67 /* YGMoreVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 2888BD3320299784009E8C67 /* YGMoreVC.m */; };
+		2888BD3620299784009E8C67 /* YGMoreVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2888BD3420299784009E8C67 /* YGMoreVC.xib */; };
+		28B3BEBF20280B2800EFF942 /* YGSTBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28B3BEBE20280B2800EFF942 /* YGSTBaseViewController.m */; };
 		28F513D120130EAF003F0E12 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 28F513D020130EAF003F0E12 /* AppDelegate.m */; };
-		28F513D420130EAF003F0E12 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28F513D320130EAF003F0E12 /* ViewController.m */; };
 		28F513D720130EAF003F0E12 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28F513D520130EAF003F0E12 /* Main.storyboard */; };
 		28F513D920130EAF003F0E12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28F513D820130EAF003F0E12 /* Assets.xcassets */; };
 		28F513DC20130EAF003F0E12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28F513DA20130EAF003F0E12 /* LaunchScreen.storyboard */; };
 		28F513DF20130EAF003F0E12 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 28F513DE20130EAF003F0E12 /* main.m */; };
 		28F513E920130EAF003F0E12 /* YGSTTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 28F513E820130EAF003F0E12 /* YGSTTests.m */; };
 		28F513F420130EAF003F0E12 /* YGSTUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 28F513F320130EAF003F0E12 /* YGSTUITests.m */; };
+		28F5140320131333003F0E12 /* YGHomePageVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 28F5140220131333003F0E12 /* YGHomePageVC.m */; };
+		28F5140C201314B6003F0E12 /* YGTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28F5140B201314B6003F0E12 /* YGTabBarController.m */; };
+		28F5140F201318B8003F0E12 /* YGRoundVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 28F5140E201318B8003F0E12 /* YGRoundVC.m */; };
+		28F51415201318F4003F0E12 /* YGMineVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 28F51414201318F4003F0E12 /* YGMineVC.m */; };
+		28F5141A201332EF003F0E12 /* YGDetailDynamicVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 28F51419201332EF003F0E12 /* YGDetailDynamicVC.m */; };
+		28FFEA4A205BA96400628E76 /* json.txt in Resources */ = {isa = PBXBuildFile; fileRef = 28FFEA49205BA96400628E76 /* json.txt */; };
+		C0841D7B20837740006E45A2 /* YGlab.m in Sources */ = {isa = PBXBuildFile; fileRef = C0841D7A20837740006E45A2 /* YGlab.m */; };
+		F354F15590212F1EEDB5E90B /* libPods-YGST.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 35E1A4AE6610A2E53DF15C28 /* libPods-YGST.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,11 +60,36 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		287347D82019B4AC0015E612 /* YGAFNetWorkingModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YGAFNetWorkingModel.h; sourceTree = "<group>"; };
+		287347D92019B4AC0015E612 /* YGAFNetWorkingModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YGAFNetWorkingModel.m; sourceTree = "<group>"; };
+		287347DB2019B6410015E612 /* YGAFNetWorkManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YGAFNetWorkManager.h; sourceTree = "<group>"; };
+		287347DC2019B6410015E612 /* YGAFNetWorkManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YGAFNetWorkManager.m; sourceTree = "<group>"; };
+		287347DF2019B91D0015E612 /* YGURL-InterFace.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "YGURL-InterFace.h"; sourceTree = "<group>"; };
+		287347E22019CAEF0015E612 /* demo_unicode.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = demo_unicode.html; sourceTree = "<group>"; };
+		287347E32019CAF00015E612 /* demo_symbol.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = demo_symbol.html; sourceTree = "<group>"; };
+		287347E42019CAF20015E612 /* demo.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = demo.css; sourceTree = "<group>"; };
+		287347E52019CAF30015E612 /* demo_fontclass.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = demo_fontclass.html; sourceTree = "<group>"; };
+		287347EA2019CB130015E612 /* iconfont.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = iconfont.svg; sourceTree = "<group>"; };
+		287347EB2019CB140015E612 /* iconfont.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = iconfont.woff; sourceTree = "<group>"; };
+		287347EC2019CB150015E612 /* iconfont.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = iconfont.css; sourceTree = "<group>"; };
+		287347ED2019CB170015E612 /* iconfont.eot */ = {isa = PBXFileReference; lastKnownFileType = file; path = iconfont.eot; sourceTree = "<group>"; };
+		287347EE2019CB180015E612 /* iconfont.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = iconfont.js; sourceTree = "<group>"; };
+		287347EF2019CB190015E612 /* iconfont.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = iconfont.ttf; sourceTree = "<group>"; };
+		287347F72019CC3B0015E612 /* YGCommonDefine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YGCommonDefine.h; sourceTree = "<group>"; };
+		287347F92019D39F0015E612 /* YGSTTool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YGSTTool.h; sourceTree = "<group>"; };
+		287347FA2019D39F0015E612 /* YGSTTool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YGSTTool.m; sourceTree = "<group>"; };
+		2888BD2920298C3E009E8C67 /* YGShopCarVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YGShopCarVC.h; sourceTree = "<group>"; };
+		2888BD2A20298C3E009E8C67 /* YGShopCarVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YGShopCarVC.m; sourceTree = "<group>"; };
+		2888BD2C20298C86009E8C67 /* YGSocialCircleVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = YGSocialCircleVC.m; path = YGST/YGSTInterFace/YGSocialCircleVC.m; sourceTree = SOURCE_ROOT; };
+		2888BD2D20298C86009E8C67 /* YGSocialCircleVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = YGSocialCircleVC.h; path = YGST/YGSTInterFace/YGSocialCircleVC.h; sourceTree = SOURCE_ROOT; };
+		2888BD3220299784009E8C67 /* YGMoreVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YGMoreVC.h; sourceTree = "<group>"; };
+		2888BD3320299784009E8C67 /* YGMoreVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YGMoreVC.m; sourceTree = "<group>"; };
+		2888BD3420299784009E8C67 /* YGMoreVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = YGMoreVC.xib; sourceTree = "<group>"; };
+		28B3BEBD20280B2800EFF942 /* YGSTBaseViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YGSTBaseViewController.h; sourceTree = "<group>"; };
+		28B3BEBE20280B2800EFF942 /* YGSTBaseViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YGSTBaseViewController.m; sourceTree = "<group>"; };
 		28F513CC20130EAE003F0E12 /* YGST.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YGST.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28F513CF20130EAF003F0E12 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		28F513D020130EAF003F0E12 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		28F513D220130EAF003F0E12 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		28F513D320130EAF003F0E12 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		28F513D620130EAF003F0E12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		28F513D820130EAF003F0E12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		28F513DB20130EAF003F0E12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -51,6 +101,23 @@
 		28F513EF20130EAF003F0E12 /* YGSTUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YGSTUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		28F513F320130EAF003F0E12 /* YGSTUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YGSTUITests.m; sourceTree = "<group>"; };
 		28F513F520130EAF003F0E12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28F5140120131333003F0E12 /* YGHomePageVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YGHomePageVC.h; sourceTree = "<group>"; };
+		28F5140220131333003F0E12 /* YGHomePageVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YGHomePageVC.m; sourceTree = "<group>"; };
+		28F5140A201314B6003F0E12 /* YGTabBarController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YGTabBarController.h; sourceTree = "<group>"; };
+		28F5140B201314B6003F0E12 /* YGTabBarController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YGTabBarController.m; sourceTree = "<group>"; };
+		28F5140D201318B8003F0E12 /* YGRoundVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YGRoundVC.h; sourceTree = "<group>"; };
+		28F5140E201318B8003F0E12 /* YGRoundVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YGRoundVC.m; sourceTree = "<group>"; };
+		28F51413201318F4003F0E12 /* YGMineVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YGMineVC.h; sourceTree = "<group>"; };
+		28F51414201318F4003F0E12 /* YGMineVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YGMineVC.m; sourceTree = "<group>"; };
+		28F51417201322D4003F0E12 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		28F51418201332EF003F0E12 /* YGDetailDynamicVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YGDetailDynamicVC.h; sourceTree = "<group>"; };
+		28F51419201332EF003F0E12 /* YGDetailDynamicVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YGDetailDynamicVC.m; sourceTree = "<group>"; };
+		28FFEA49205BA96400628E76 /* json.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = json.txt; sourceTree = "<group>"; };
+		35E1A4AE6610A2E53DF15C28 /* libPods-YGST.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-YGST.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		677DC86ACF3134B9A0669372 /* Pods-YGST.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YGST.release.xcconfig"; path = "Pods/Target Support Files/Pods-YGST/Pods-YGST.release.xcconfig"; sourceTree = "<group>"; };
+		B9DF978A6404E1A925499830 /* Pods-YGST.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YGST.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YGST/Pods-YGST.debug.xcconfig"; sourceTree = "<group>"; };
+		C0841D7920837740006E45A2 /* YGlab.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YGlab.h; sourceTree = "<group>"; };
+		C0841D7A20837740006E45A2 /* YGlab.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YGlab.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +125,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F354F15590212F1EEDB5E90B /* libPods-YGST.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +146,167 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0294C9AEA0CD71C7221DFADE /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B9DF978A6404E1A925499830 /* Pods-YGST.debug.xcconfig */,
+				677DC86ACF3134B9A0669372 /* Pods-YGST.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		287347D72019B4750015E612 /* AFNETWORK */ = {
+			isa = PBXGroup;
+			children = (
+				287347DB2019B6410015E612 /* YGAFNetWorkManager.h */,
+				287347DC2019B6410015E612 /* YGAFNetWorkManager.m */,
+				287347D82019B4AC0015E612 /* YGAFNetWorkingModel.h */,
+				287347D92019B4AC0015E612 /* YGAFNetWorkingModel.m */,
+			);
+			path = AFNETWORK;
+			sourceTree = "<group>";
+		};
+		287347DE2019B80C0015E612 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				287347DF2019B91D0015E612 /* YGURL-InterFace.h */,
+				287347F72019CC3B0015E612 /* YGCommonDefine.h */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		287347E02019C7950015E612 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				287347E12019C7C80015E612 /* iconfont */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		287347E12019C7C80015E612 /* iconfont */ = {
+			isa = PBXGroup;
+			children = (
+				287347E52019CAF30015E612 /* demo_fontclass.html */,
+				287347E32019CAF00015E612 /* demo_symbol.html */,
+				287347E22019CAEF0015E612 /* demo_unicode.html */,
+				287347E42019CAF20015E612 /* demo.css */,
+				287347EC2019CB150015E612 /* iconfont.css */,
+				287347ED2019CB170015E612 /* iconfont.eot */,
+				287347EE2019CB180015E612 /* iconfont.js */,
+				287347EA2019CB130015E612 /* iconfont.svg */,
+				287347EF2019CB190015E612 /* iconfont.ttf */,
+				287347EB2019CB140015E612 /* iconfont.woff */,
+			);
+			path = iconfont;
+			sourceTree = "<group>";
+		};
+		287347F82019D37E0015E612 /* YGTOOL */ = {
+			isa = PBXGroup;
+			children = (
+				287347F92019D39F0015E612 /* YGSTTool.h */,
+				287347FA2019D39F0015E612 /* YGSTTool.m */,
+			);
+			path = YGTOOL;
+			sourceTree = "<group>";
+		};
+		2888BD1E20298884009E8C67 /* YGSTInterFace */ = {
+			isa = PBXGroup;
+			children = (
+				28F513CF20130EAF003F0E12 /* AppDelegate.h */,
+				28F513D020130EAF003F0E12 /* AppDelegate.m */,
+				2888BD3C20299A89009E8C67 /* BASE */,
+			);
+			path = YGSTInterFace;
+			sourceTree = "<group>";
+		};
+		2888BD20202988EE009E8C67 /* HOME */ = {
+			isa = PBXGroup;
+			children = (
+				28F5140120131333003F0E12 /* YGHomePageVC.h */,
+				28F5140220131333003F0E12 /* YGHomePageVC.m */,
+			);
+			path = HOME;
+			sourceTree = "<group>";
+		};
+		2888BD2120298924009E8C67 /* ROUND */ = {
+			isa = PBXGroup;
+			children = (
+				28F5140D201318B8003F0E12 /* YGRoundVC.h */,
+				28F5140E201318B8003F0E12 /* YGRoundVC.m */,
+			);
+			path = ROUND;
+			sourceTree = "<group>";
+		};
+		2888BD232029894C009E8C67 /* MINE */ = {
+			isa = PBXGroup;
+			children = (
+				28F51413201318F4003F0E12 /* YGMineVC.h */,
+				28F51414201318F4003F0E12 /* YGMineVC.m */,
+				C0841D7920837740006E45A2 /* YGlab.h */,
+				C0841D7A20837740006E45A2 /* YGlab.m */,
+			);
+			path = MINE;
+			sourceTree = "<group>";
+		};
+		2888BD24202989D3009E8C67 /* YGSTVC */ = {
+			isa = PBXGroup;
+			children = (
+				2888BD20202988EE009E8C67 /* HOME */,
+				2888BD2120298924009E8C67 /* ROUND */,
+				2888BD2720298AB8009E8C67 /* SOCIAL */,
+				2888BD2820298ABC009E8C67 /* CAR */,
+				2888BD232029894C009E8C67 /* MINE */,
+			);
+			path = YGSTVC;
+			sourceTree = "<group>";
+		};
+		2888BD25202989D8009E8C67 /* YGSTVIEW */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = YGSTVIEW;
+			sourceTree = "<group>";
+		};
+		2888BD26202989DC009E8C67 /* YGSTMODEL */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = YGSTMODEL;
+			sourceTree = "<group>";
+		};
+		2888BD2720298AB8009E8C67 /* SOCIAL */ = {
+			isa = PBXGroup;
+			children = (
+				2888BD2D20298C86009E8C67 /* YGSocialCircleVC.h */,
+				2888BD2C20298C86009E8C67 /* YGSocialCircleVC.m */,
+				28FFEA49205BA96400628E76 /* json.txt */,
+				2888BD3220299784009E8C67 /* YGMoreVC.h */,
+				2888BD3320299784009E8C67 /* YGMoreVC.m */,
+				2888BD3420299784009E8C67 /* YGMoreVC.xib */,
+			);
+			path = SOCIAL;
+			sourceTree = "<group>";
+		};
+		2888BD2820298ABC009E8C67 /* CAR */ = {
+			isa = PBXGroup;
+			children = (
+				2888BD2920298C3E009E8C67 /* YGShopCarVC.h */,
+				2888BD2A20298C3E009E8C67 /* YGShopCarVC.m */,
+			);
+			path = CAR;
+			sourceTree = "<group>";
+		};
+		2888BD3C20299A89009E8C67 /* BASE */ = {
+			isa = PBXGroup;
+			children = (
+				28F5140A201314B6003F0E12 /* YGTabBarController.h */,
+				28F5140B201314B6003F0E12 /* YGTabBarController.m */,
+				28B3BEBD20280B2800EFF942 /* YGSTBaseViewController.h */,
+				28B3BEBE20280B2800EFF942 /* YGSTBaseViewController.m */,
+			);
+			path = BASE;
+			sourceTree = "<group>";
+		};
 		28F513C320130EAE003F0E12 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +314,8 @@
 				28F513E720130EAF003F0E12 /* YGSTTests */,
 				28F513F220130EAF003F0E12 /* YGSTUITests */,
 				28F513CD20130EAE003F0E12 /* Products */,
+				0294C9AEA0CD71C7221DFADE /* Pods */,
+				EB50111E88DDEC39FB9E6DB5 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,14 +332,21 @@
 		28F513CE20130EAE003F0E12 /* YGST */ = {
 			isa = PBXGroup;
 			children = (
-				28F513CF20130EAF003F0E12 /* AppDelegate.h */,
-				28F513D020130EAF003F0E12 /* AppDelegate.m */,
-				28F513D220130EAF003F0E12 /* ViewController.h */,
-				28F513D320130EAF003F0E12 /* ViewController.m */,
+				287347F82019D37E0015E612 /* YGTOOL */,
+				287347E02019C7950015E612 /* Resource */,
+				287347D72019B4750015E612 /* AFNETWORK */,
+				287347DE2019B80C0015E612 /* New Group */,
+				2888BD26202989DC009E8C67 /* YGSTMODEL */,
+				2888BD25202989D8009E8C67 /* YGSTVIEW */,
+				2888BD1E20298884009E8C67 /* YGSTInterFace */,
+				2888BD24202989D3009E8C67 /* YGSTVC */,
+				28F51418201332EF003F0E12 /* YGDetailDynamicVC.h */,
+				28F51419201332EF003F0E12 /* YGDetailDynamicVC.m */,
 				28F513D520130EAF003F0E12 /* Main.storyboard */,
 				28F513D820130EAF003F0E12 /* Assets.xcassets */,
 				28F513DA20130EAF003F0E12 /* LaunchScreen.storyboard */,
 				28F513DD20130EAF003F0E12 /* Info.plist */,
+				28F51417201322D4003F0E12 /* PrefixHeader.pch */,
 				28F513DE20130EAF003F0E12 /* main.m */,
 			);
 			path = YGST;
@@ -132,6 +370,14 @@
 			path = YGSTUITests;
 			sourceTree = "<group>";
 		};
+		EB50111E88DDEC39FB9E6DB5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				35E1A4AE6610A2E53DF15C28 /* libPods-YGST.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -139,9 +385,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 28F513F820130EAF003F0E12 /* Build configuration list for PBXNativeTarget "YGST" */;
 			buildPhases = (
+				22E42FBC9CB2D9BADD511EB9 /* [CP] Check Pods Manifest.lock */,
 				28F513C820130EAE003F0E12 /* Sources */,
 				28F513C920130EAE003F0E12 /* Frameworks */,
 				28F513CA20130EAE003F0E12 /* Resources */,
+				690B78D5611C242DE7FF8E94 /* [CP] Embed Pods Frameworks */,
+				D65A3094FD9E08360D5A0E1E /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -194,6 +443,7 @@
 		28F513C420130EAE003F0E12 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = YG;
 				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = "yalong zhang";
 				TargetAttributes = {
@@ -238,9 +488,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				287347E72019CAF40015E612 /* demo_symbol.html in Resources */,
 				28F513DC20130EAF003F0E12 /* LaunchScreen.storyboard in Resources */,
+				287347F02019CB1A0015E612 /* iconfont.svg in Resources */,
+				287347E82019CAF40015E612 /* demo.css in Resources */,
+				28FFEA4A205BA96400628E76 /* json.txt in Resources */,
+				287347E92019CAF40015E612 /* demo_fontclass.html in Resources */,
+				287347F12019CB1A0015E612 /* iconfont.woff in Resources */,
+				287347F42019CB1A0015E612 /* iconfont.js in Resources */,
 				28F513D920130EAF003F0E12 /* Assets.xcassets in Resources */,
 				28F513D720130EAF003F0E12 /* Main.storyboard in Resources */,
+				287347F52019CB1A0015E612 /* iconfont.ttf in Resources */,
+				2888BD3620299784009E8C67 /* YGMoreVC.xib in Resources */,
+				287347E62019CAF40015E612 /* demo_unicode.html in Resources */,
+				287347F32019CB1A0015E612 /* iconfont.eot in Resources */,
+				287347F22019CB1A0015E612 /* iconfont.css in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,14 +522,94 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		22E42FBC9CB2D9BADD511EB9 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-YGST-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		690B78D5611C242DE7FF8E94 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-YGST/Pods-YGST-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D65A3094FD9E08360D5A0E1E /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-YGST/Pods-YGST-resources.sh",
+				"${PODS_ROOT}/AMap2DMap-NO-IDFA/MAMapKit.framework/AMap.bundle",
+				"${PODS_ROOT}/BaiduMapKit/BaiduMapKit/BaiduMapAPI_Map.framework/Resources/mapapi.bundle",
+				"${PODS_ROOT}/IQKeyboardManager/IQKeyboardManager/Resources/IQKeyboardManager.bundle",
+				"${PODS_ROOT}/MJRefresh/MJRefresh/MJRefresh.bundle",
+				"${PODS_ROOT}/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZImagePickerController.bundle",
+				"${PODS_ROOT}/UMengUShare/UShareSDK/UMSocialSDK/UMSocialSDKPromptResources.bundle",
+				"${PODS_ROOT}/UMengUShare/UShareSDK/SocialLibraries/QQ/QQSDK/TencentOpenApi_IOS_Bundle.bundle",
+				"${PODS_ROOT}/UMengUShare/UShareSDK/SocialLibraries/Sina/SinaSDK/WeiboSDK.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AMap.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/mapapi.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/IQKeyboardManager.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MJRefresh.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TZImagePickerController.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/UMSocialSDKPromptResources.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/TencentOpenApi_IOS_Bundle.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/WeiboSDK.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-YGST/Pods-YGST-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		28F513C820130EAE003F0E12 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				28F513D420130EAF003F0E12 /* ViewController.m in Sources */,
+				C0841D7B20837740006E45A2 /* YGlab.m in Sources */,
+				28F5140320131333003F0E12 /* YGHomePageVC.m in Sources */,
+				2888BD3520299784009E8C67 /* YGMoreVC.m in Sources */,
+				28F5140C201314B6003F0E12 /* YGTabBarController.m in Sources */,
 				28F513DF20130EAF003F0E12 /* main.m in Sources */,
 				28F513D120130EAF003F0E12 /* AppDelegate.m in Sources */,
+				287347FB2019D39F0015E612 /* YGSTTool.m in Sources */,
+				28F5140F201318B8003F0E12 /* YGRoundVC.m in Sources */,
+				2888BD2B20298C3E009E8C67 /* YGShopCarVC.m in Sources */,
+				2888BD2E20298C86009E8C67 /* YGSocialCircleVC.m in Sources */,
+				28F5141A201332EF003F0E12 /* YGDetailDynamicVC.m in Sources */,
+				28B3BEBF20280B2800EFF942 /* YGSTBaseViewController.m in Sources */,
+				287347DD2019B6410015E612 /* YGAFNetWorkManager.m in Sources */,
+				287347DA2019B4AC0015E612 /* YGAFNetWorkingModel.m in Sources */,
+				28F51415201318F4003F0E12 /* YGMineVC.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -428,11 +770,14 @@
 		};
 		28F513F920130EAF003F0E12 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B9DF978A6404E1A925499830 /* Pods-YGST.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 69UMRJG2X2;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/YGST/PrefixHeader.pch";
 				INFOPLIST_FILE = YGST/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = YGGX.com.YGST;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -442,11 +787,14 @@
 		};
 		28F513FA20130EAF003F0E12 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 677DC86ACF3134B9A0669372 /* Pods-YGST.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 69UMRJG2X2;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/YGST/PrefixHeader.pch";
 				INFOPLIST_FILE = YGST/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = YGGX.com.YGST;
 				PRODUCT_NAME = "$(TARGET_NAME)";
